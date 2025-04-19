@@ -4,7 +4,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
 # タイトル
-st.title("社内DX課題ワードクラウド")
+st.title("DX課題ワードクラウド")
 
 # テキスト入力（初期値あり）
 text_data = st.text_area("ワードクラウドに使うテキストを入力してください", """
