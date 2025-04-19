@@ -8,7 +8,7 @@
 
 ## 📸 スクリーンショット
 
-![screenshot](https://user-images.githubusercontent.com/your-screenshot-path/example.png)
+![screenshot](https://github.com/youichiokuda/wordcloud/blob/main/screenshot.png)
 
 ---
 
